@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+
+ // Ques-->humko sare numbers ka sum krna hai 0 se le kr user k diye hue number tak
+int main()
+{
+	int num,sum = 0;
+	int i;
+	for(i = 0;i < num;i++)
+	{
+		sum = sum+1;
+	}
+	cout<<sum;
+}
+
+
+

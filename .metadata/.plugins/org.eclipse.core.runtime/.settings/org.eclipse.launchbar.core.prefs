@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:First.exe,org.eclipse.launchbar.core.descriptorType.default\:M_18.6.exe,org.eclipse.launchbar.core.descriptorType.default\:OVFL.exe,org.eclipse.launchbar.core.descriptorType.default\:main.exe,org.eclipse.launchbar.core.descriptorType.default\:Cplusplus2.exe,org.eclipse.launchbar.core.descriptorType.default\:Cplusplus(taking_input).exe,org.eclipse.launchbar.core.descriptorType.default\:Cplusplus1.exe,org.eclipse.launchbar.core.descriptorType.default\:Cplisplus(loops).exe,org.eclipse.launchbar.core.descriptorType.default\:Cplusplus(break-contine-statment.exe,org.eclipse.launchbar.core.descriptorType.default\:Cplusplus(if-else).exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Cplisplus(loops).exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Cplisplus(loops).exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Cplusplus(if-else).exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Cplusplus(if-else).exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:First.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:First.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

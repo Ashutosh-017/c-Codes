@@ -1,0 +1,34 @@
+#include<iostream>
+using namespace std;
+// For loop
+ // Ques-->humko sare numbers ka sum krna hai 0 se le kr user k diye hue number tak
+/*int main()
+{
+	int num,sum = 0;
+	cin>>num;
+	int i;
+	for(i = 0;i <= num;i++)
+	{
+		sum = sum+i;
+	}
+	cout<<sum;
+	return 0;
+}*/
+
+
+// While loop
+// user jab tak koi -ve number nhi deta tab tak user se number lete raho
+int main()
+{
+	int num = 0;
+	int user_input;
+	while(1)
+	{
+		cin>>user_input;
+		user_input = num;
+	}
+	return 0;
+}
+
+
+
